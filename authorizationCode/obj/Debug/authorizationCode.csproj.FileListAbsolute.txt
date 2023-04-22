@@ -1,0 +1,8 @@
+C:\Users\jemo\source\repos\authorizationCode\authorizationCode\bin\Debug\authorizationCode.exe.config
+C:\Users\jemo\source\repos\authorizationCode\authorizationCode\bin\Debug\authorizationCode.exe
+C:\Users\jemo\source\repos\authorizationCode\authorizationCode\bin\Debug\authorizationCode.pdb
+C:\Users\jemo\source\repos\authorizationCode\authorizationCode\obj\Debug\authorizationCode.csproj.AssemblyReference.cache
+C:\Users\jemo\source\repos\authorizationCode\authorizationCode\obj\Debug\authorizationCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\jemo\source\repos\authorizationCode\authorizationCode\obj\Debug\authorizationCode.csproj.CoreCompileInputs.cache
+C:\Users\jemo\source\repos\authorizationCode\authorizationCode\obj\Debug\authorizationCode.exe
+C:\Users\jemo\source\repos\authorizationCode\authorizationCode\obj\Debug\authorizationCode.pdb
