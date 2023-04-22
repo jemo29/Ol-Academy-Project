@@ -1,0 +1,8 @@
+C:\Users\jemo\source\repos\Calculation of area and volume\Calculation of area and volume\bin\Debug\Calculation of area and volume.exe.config
+C:\Users\jemo\source\repos\Calculation of area and volume\Calculation of area and volume\bin\Debug\Calculation of area and volume.exe
+C:\Users\jemo\source\repos\Calculation of area and volume\Calculation of area and volume\bin\Debug\Calculation of area and volume.pdb
+C:\Users\jemo\source\repos\Calculation of area and volume\Calculation of area and volume\obj\Debug\Calculation of area and volume.csproj.AssemblyReference.cache
+C:\Users\jemo\source\repos\Calculation of area and volume\Calculation of area and volume\obj\Debug\Calculation of area and volume.csproj.SuggestedBindingRedirects.cache
+C:\Users\jemo\source\repos\Calculation of area and volume\Calculation of area and volume\obj\Debug\Calculation of area and volume.csproj.CoreCompileInputs.cache
+C:\Users\jemo\source\repos\Calculation of area and volume\Calculation of area and volume\obj\Debug\Calculation of area and volume.exe
+C:\Users\jemo\source\repos\Calculation of area and volume\Calculation of area and volume\obj\Debug\Calculation of area and volume.pdb
