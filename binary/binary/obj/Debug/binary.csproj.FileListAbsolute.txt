@@ -1,0 +1,8 @@
+C:\Users\jemo\source\repos\binary\binary\bin\Debug\binary.exe.config
+C:\Users\jemo\source\repos\binary\binary\bin\Debug\binary.exe
+C:\Users\jemo\source\repos\binary\binary\bin\Debug\binary.pdb
+C:\Users\jemo\source\repos\binary\binary\obj\Debug\binary.csproj.AssemblyReference.cache
+C:\Users\jemo\source\repos\binary\binary\obj\Debug\binary.csproj.SuggestedBindingRedirects.cache
+C:\Users\jemo\source\repos\binary\binary\obj\Debug\binary.csproj.CoreCompileInputs.cache
+C:\Users\jemo\source\repos\binary\binary\obj\Debug\binary.exe
+C:\Users\jemo\source\repos\binary\binary\obj\Debug\binary.pdb
